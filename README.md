@@ -19,5 +19,14 @@ Prograssive Web App, this app will allow user to intract with this app regardles
     Service Wprker
     IndexDB 
 
+## How to run
+
+Clone the code and run npm install. Once npm package is installed >npm start. Please make sure you have setup your DB connection if you are running app localy 
+
 ## Contributing
-Pleas advise on tika.kandel.06@gmail.com.
+
+E: tika.kandel.06@gmail.com.
+github:https://github.com/tikakandel/PWA-Budget
+
+
+
