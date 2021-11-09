@@ -16,7 +16,7 @@ Prograssive Web App, this app will allow user to intract with this app regardles
     MongoDB
     Express
     HeroKu
-    Service Wprker
+    Service Worker
     IndexDB 
 
 ## How to run
